@@ -1,0 +1,1 @@
+The Amazon Web Scraper is a simple web scraping tool designed to extract product details from Amazon, including product names, prices, ratings, and reviews. This project demonstrates the ability to collect real-time data from e-commerce websites and process it for analysis or price comparison.
